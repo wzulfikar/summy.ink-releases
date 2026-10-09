@@ -1,3 +1,3 @@
 # Summy releases
 
-Download: https://github.com/wzulfikar/ongko-releases/releases/latest/download/Ongko.dmg
+Download: https://github.com/wzulfikar/summy.ink-releases/releases/latest/download/Summy.dmg
